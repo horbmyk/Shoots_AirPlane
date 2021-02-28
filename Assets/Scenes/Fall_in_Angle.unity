@@ -250,7 +250,6 @@ MonoBehaviour:
   bullet_traectory: {fileID: 1978457575725619351, guid: e18c4e9cbae09854d84f4a414a5b2a12,
     type: 3}
   ShootElement: {fileID: 1060885906}
-  BlockSlider: {fileID: 1517714423}
   airplane: {fileID: 1069157847681184755}
   Angle_lebel: {fileID: 856582075}
   V_0_lebel: {fileID: 2005290716}
